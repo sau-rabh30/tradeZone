@@ -9,6 +9,7 @@ function App() {
     <Title />
     <LeftLive />
     <RightPredicted />
+    <div>Commit Unique</div>
     </div>
     
   );
